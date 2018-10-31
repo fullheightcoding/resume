@@ -8,3 +8,5 @@ A copy of my resume created using the following stack:
 - Bootstrap
 
 Description:
+
+Nothing to add here.
